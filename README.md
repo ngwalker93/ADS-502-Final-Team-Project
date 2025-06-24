@@ -1,5 +1,5 @@
 # ADS-502 Final Team Project: Applied Data Mining 
-# Using Data Mining to Combat Credit Card Fraud and Reduce Merchant Losses
+## Using Data Mining to Combat Credit Card Fraud and Reduce Merchant Losses
 
 This repository contains the final project for the ADS 502 course.
 The objective was to presents a data science project that was designed to detect credit card fraud for CyberPay, a 
