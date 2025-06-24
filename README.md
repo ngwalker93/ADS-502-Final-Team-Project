@@ -20,7 +20,6 @@ Full analysis and report in Jupyter Notbook. This file includes:
   -  Modeling
   -  Predictions and Evaluations
   -  ROC Curve
-  -  Cross Validation
 
 ## 🔍 Project Highlights
 
